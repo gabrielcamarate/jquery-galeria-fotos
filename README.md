@@ -1,7 +1,12 @@
 
-# Galeria de Fotos com jQuery / Photo Gallery with jQuery
+# Photo Gallery with jQuery
 
 [🇧🇷 Versão em Português](https://github.com/gabrielcamarate/jquery-galeria-fotos/tree/main/PT-BR-README.md) | [🇺🇸 English Version](https://github.com/gabrielcamarate/jquery-galeria-fotos/tree/main/README.md)
+
+---
+![gallery_pictures](images/previw.png)
+
+A simple gallery for storing images
 
 ### 📋 Table of Contents
 - [📌 About the Project](#-about-the-project)
